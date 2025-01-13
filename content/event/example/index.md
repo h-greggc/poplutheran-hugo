@@ -1,7 +1,7 @@
 ---
-title: Example Event
+title: Saturday Service
 
-event: Wowchemy Conference
+event: Saturday Evening Service
 event_url: https://example.org
 
 location: Wowchemy HQ

@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Pastor
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Steve
+last_name: Beuchler
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Pastor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Prince of Peace Lutheran Church
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ministries..
+  - Skiing
+  - Traveling
 
 education:
   courses:
