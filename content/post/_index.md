@@ -1,11 +1,11 @@
 ---
-title: Latest News
-
-# Listing view
+title: Latest Sermons
 view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
+date: 2025-01-13T20:37:00.000Z
+image:
+  filename: img_4337.jpeg
 ---
+here you’ll find …
