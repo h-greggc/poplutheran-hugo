@@ -1,7 +1,9 @@
 ---
 title: Another Great Sermon Idea!
-date: 2024-11-01 
+date: 2024-11-01
 featured: false
+authors:
+  - Pr.Pastor
 ---
 
 Congratulations!.
