@@ -4,6 +4,8 @@ date: 2024-11-01
 featured: false
 authors:
   - Pr.Pastor
+image:
+  preview_only: true
 ---
 
 Congratulations!.
