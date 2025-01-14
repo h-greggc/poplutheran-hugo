@@ -8,12 +8,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to Prince of Peace
+        content: Take a look at our family...
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: SilentAuction.png
             filters:
               brightness: 0.7
           position: right
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Welcoming, well-maintained facilities!
+        content: 'Open Sundays!'
         align: right
         background:
           image:

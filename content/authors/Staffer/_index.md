@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Pastor
+title: Church Administrator
 
 # Full Name (for SEO)
-first_name: Pastor
-last_name: Steve
+first_name: Crawford
+last_name: Anonymous
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Pastor
+role: Administrator
 
 # Organizations/Affiliations
 organizations:
@@ -18,25 +18,23 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include...
 
 interests:
-  - Ministries..
   - Woodworking
-  - Skiing
   - Traveling
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+# education:
+#   courses:
+#     - course: PhD in Artificial Intelligence
+#       institution: Stanford University
+#       year: 2012
+#     - course: MEng in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2009
+#     - course: BSc in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

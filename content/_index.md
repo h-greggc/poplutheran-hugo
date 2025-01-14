@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        Prince of Peace Lutheran Church is a loving and caring Christian community working together to live and proclaim God’s word made known to us in Jesus. Prince of Peace welcomes people as they are and embraces all the dimensions of diversity in which God has made us. Scroll down through our website to learn more!
   
   - block: collection
     content:
