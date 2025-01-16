@@ -1,10 +1,11 @@
 ---
 title: Even another example
 date: 2025-01-16T09:14:00.000Z
+summary: ""
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: assets/media/2011-11-26_14-00-53_132.jpg
   focal_point: Smart
   preview_only: false
 ---
