@@ -2,7 +2,8 @@
 title: Pr. Pastor is Excited About the Annual Synod Assembly!
 date: 2024-12-01
 image:
-  focal_point: 'top'
+  focal_point: top
+  preview_only: false
 ---
 
 Congratulations!.
