@@ -13,7 +13,7 @@ organizations:
 superuser: false
 user_groups:
   - Staff
-last_name: Anonymous
+last_name: Doe
 role: Administrator
 highlight_name: false
 title: Church Administrator

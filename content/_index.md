@@ -19,7 +19,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Latest News and Posts
       subtitle:
       text:
       count: 5
@@ -58,7 +58,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Newsletters
       text: ""
       count: 5
       filters:

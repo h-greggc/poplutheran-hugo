@@ -13,10 +13,10 @@ sections:
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 11900 Darnestown Rd
-        city: Gaithersburg
+        street: 1100 Somewhere Rd
+        city: Anytown
         region: MD
-        postcode: '20878'
+        postcode: '12345'
         country: United States
         country_code: US
       coordinates:

@@ -6,8 +6,8 @@ event_url: https://example.org
 
 location: Sanctuary
 address:
-  street: 11900 Darnestown Rd
-  city: Gaithersburg
+  street: 1 Anytown Rd
+  city: Somewhere
   region: MD
   postcode: '20878'
   country: United States
