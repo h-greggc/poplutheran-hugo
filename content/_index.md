@@ -77,4 +77,11 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+params:
+  arbitrary: five
+       
 ---
+
+<h2>
+{{< param "arbitrary" >}}
+</h2>
