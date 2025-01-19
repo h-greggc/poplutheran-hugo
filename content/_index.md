@@ -5,6 +5,14 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
   - block: slider
     content:
       slides:
@@ -48,7 +56,7 @@ sections:
       slide_height: '400px'
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 
