@@ -18,8 +18,13 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Our missions
+          url: ../page/     
       - title: Social Justice ☕️
-        content: "Support the dignity of all God's people!"
+        content: Support the dignity of all God's people!
         align: left
         background:
           image:
