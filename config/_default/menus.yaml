@@ -22,3 +22,15 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  - name: Pages
+    url: page
+    weight: 15
+  - name: Calendars
+    url: page/church-calendars
+    parent: Pages
+  - name: Music and Worship
+    url: page/worship-and-music
+    parent: Pages
+  - name: Social Justice
+    url: page/social-justice-ministry
+    parent: Pages  

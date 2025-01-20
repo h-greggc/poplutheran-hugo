@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to Prince of Peace
+      - title: 👋 Welcome to Our Church
         content: Take a look at our family...
         align: center
         background:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Social Justice ☕️
+        content: "Support the dignity of all God's people!"
         align: left
         background:
           image:
@@ -50,5 +50,5 @@ sections:
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 ---

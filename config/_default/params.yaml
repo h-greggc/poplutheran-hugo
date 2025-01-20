@@ -40,12 +40,15 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    logo:     
+      text: 
+        'Prince of Peace Lutheran Church'  
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} H.Gregg Claycamp. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
