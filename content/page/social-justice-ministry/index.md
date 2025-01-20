@@ -1,6 +1,6 @@
 ---
 title: Social Justice Ministry
-date: 
+date: 2025-01-01
 image:
   focal_point: top
   preview_only: false

@@ -1,6 +1,6 @@
 ---
 title: Music and Worship
-date: 
+date: 2025-01-02
 image:
   focal_point: top
   preview_only: false

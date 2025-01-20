@@ -1,6 +1,6 @@
 ---
 title: Church Calendars
-date: 
+date: 2025-01-03
 image:
   focal_point: top
   preview_only: false
