@@ -19,8 +19,8 @@ sections:
           position: right
           color: '#666'
         link:
-          icon: graduation-cap
-          icon_pack: fas
+          icon: fa-cross
+          icon_pack: fa
           text: Our missions
           url: ../page/     
       - title: Social Justice ☕️

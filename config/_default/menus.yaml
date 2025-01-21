@@ -4,6 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: I'm New!
+    url: tour
+    weight: 5
   - name: Tour
     url: tour
     weight: 10
@@ -16,20 +19,20 @@ main:
   - name: Events
     url: event
     weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
   - name: Contact
     url: contact
     weight: 60
   - name: Pages
     url: page
     weight: 15
-  - name: Calendars
-    url: page/church-calendars
-    parent: Pages
+  - name: All pages
+    url: page
+    parent:  Pages
   - name: Music and Worship
     url: page/worship-and-music
+    parent: Pages  
+  - name: Calendars
+    url: page/church-calendars
     parent: Pages
   - name: Social Justice
     url: page/social-justice-ministry

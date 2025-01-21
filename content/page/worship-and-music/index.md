@@ -5,10 +5,12 @@ image:
   focal_point: top
   preview_only: false
 
+featured: true  
+
 
 ---
 
-## Here are the missions and activities of Music and Worship
+## Here are the activities of Music and Worship
 
 Vel nihil dolores ut architecto facilis eos nesciunt recusandae. Est sapiente dolores ab fuga minima vel iure illo.
 

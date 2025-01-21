@@ -4,10 +4,8 @@ date: 2025-01-03
 image:
   focal_point: top
   preview_only: false
-
-
+featured: true
 ---
- ##    This is the home page for the Church Calendars
 
  Lorem ipsum odor amet, consectetuer adipiscing elit. Habitasse fermentum porta vel sapien sollicitudin eget aptent. Purus aliquam curabitur sem dictum ullamcorper quisque hac. Facilisi maximus vestibulum aenean elit in sem diam ut auctor. Porttitor vestibulum sodales lobortis consequat adipiscing. Viverra elementum litora diam sollicitudin quis luctus. Convallis malesuada a fusce; ornare feugiat himenaeos semper vivamus. Nascetur felis tellus ut felis platea vulputate. Donec donec viverra dui nunc ad vivamus. Dis metus urna et mus odio.
 

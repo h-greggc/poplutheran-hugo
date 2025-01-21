@@ -1,12 +1,9 @@
 ---
-title: Our Church Missions
+title: Our Church Ministries
 
 page: 
   columns: 1
-view: card
-
-
-
+view: compact
 banner:
   caption: ""
   image: ""
