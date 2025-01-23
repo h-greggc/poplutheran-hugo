@@ -4,13 +4,12 @@ date: 2025-01-02
 image:
   focal_point: top
   preview_only: false
+summary:  Our worship and music program supports our clergy with worship activities and a lot of "joyful noise!"
 
 featured: true  
 
-
 ---
 
-## Here are the activities of Music and Worship
 
 Vel nihil dolores ut architecto facilis eos nesciunt recusandae. Est sapiente dolores ab fuga minima vel iure illo.
 
