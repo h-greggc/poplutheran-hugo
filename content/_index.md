@@ -53,31 +53,30 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '400px'
+      slide_height: '350px'
       is_fullscreen: true
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 
   - block: hero
     content:
       title: |
-        Prince of Peace
-        Lutheran Church
+       Our Favorite Church  
       image:
-        filename: welcome.jpg
-      text: |
-        <br>
+        filename: /albums/Prince-of-Peace-Church.png
         
+      text: |
+        <div style="font-size: 20px;">     
         Our Church is a loving and caring Christian community working together to live and proclaim God’s word made known to us in Jesus. Prince of Peace welcomes people as they are and embraces all the dimensions of diversity in which God has made us. Scroll down through our website to learn more!
-  
+        </div>
   - block: collection
     content:
       title: Latest News and Posts
       subtitle:
       text:
-      count: 5
+      count: 20
       filters:
         author: ''
         category: ''
@@ -88,7 +87,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: article-grid
+      view: card
       columns: '1'
   
   - block: markdown

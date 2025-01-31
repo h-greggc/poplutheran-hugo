@@ -3,7 +3,7 @@ title: Our Church Ministries
 
 page: 
   columns: 1
-view: article-grid
+view: compact
 banner:
   caption: ""
   image: ""

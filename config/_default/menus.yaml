@@ -5,7 +5,7 @@
 
 main:
   - name: I'm New!
-    url: tour
+    url: page/newbie
     weight: 5
   - name: Tour
     url: tour
