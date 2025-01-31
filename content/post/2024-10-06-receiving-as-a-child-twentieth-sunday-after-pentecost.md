@@ -1,15 +1,15 @@
 ---
-author: Steve Buechler
-categories:
-- Sermon Reflections
-classic-editor-remember:
-- block-editor
-date: "2024-10-06T12:17:21Z"
 guid: https://poplutheran.org/?p=6545
-id: 6545
-title: Receiving as a Child (Twentieth Sunday after Pentecost)
-subtitle: Twentieth Sunday after Pentecost
+author: Steve Buechler
+date: 2024-10-06T12:17:21Z
 url: /2024/10/06/receiving-as-a-child-twentieth-sunday-after-pentecost/
+classic-editor-remember:
+  - block-editor
+title: "Receiving as a Child "
+subtitle: Twentieth Sunday after Pentecost
+id: 6545
+categories:
+  - Sermon Reflections
 ---
 
 #### Sermons on YouTube…
