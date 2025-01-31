@@ -7,9 +7,12 @@ classic-editor-remember:
   - block-editor
 title: "Receiving as a Child "
 subtitle: Twentieth Sunday after Pentecost
+tags:
+  - Pentecost
 id: 6545
 categories:
   - Sermon Reflections
+  - Pentecost
 ---
 
 #### Sermons on YouTube…
