@@ -1,14 +1,15 @@
 ---
-author: Steve Buechler
-categories:
-- Sermon Reflections
-classic-editor-remember:
-- block-editor
-date: "2024-09-15T14:04:35Z"
 guid: https://poplutheran.org/?p=6477
-id: 6477
-title: Taming the Tongue (Seventeenth Sunday after Pentecost)
+author: Steve Buechler
+date: 2024-09-15T14:04:35Z
 url: /2024/09/15/taming-the-tongue-seventeenth-sunday-after-pentecost/
+classic-editor-remember:
+  - block-editor
+title: Taming the Tongue (Seventeenth Sunday after Pentecost)
+subtitle: Seventeen Sunday after Pentecost
+id: 6477
+categories:
+  - Sermon Reflections
 ---
 
 #### Sermons on YouTube…
